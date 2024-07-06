@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnouK271
-- 👀 I’m interested in ... Learning math and its applications:)
+- 👀 I’m interested in ... Learning math and its applications:) I especially love fractals.
 - 🌱 I’m currently learning ... Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... anousha.k271@gmail.com
