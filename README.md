@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... anousha.k271@gmail.com
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...I only recently started leaning to code, so most of my projects are basics. But I'm currently working on a larger project that I hope to add on here when I'm done.
+- ⚡ Fun fact: ...I'm still a beginner, so most of my projects are basics. But I'm currently working on a larger project that I hope to add on here when I'm done.
 
 <!---
 AnouK271/AnouK271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
